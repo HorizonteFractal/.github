@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Comunicação de segurança
+    url: https://github.com/organizations/HorizonteFractal/settings/security
+    about: Utilize os canais privados disponíveis para comunicar possíveis vulnerabilidades de segurança.
